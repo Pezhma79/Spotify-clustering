@@ -15,10 +15,10 @@ Pandas
 Matplotlib/Seaborn
 Scikit-learn
 
-Here’s a t-SNE plot visualizing the clusters:  
+## Here’s a t-SNE plot visualizing the clusters:  
 
 ![t-SNE Visualization](images/1.png)  
 
-Here’s a BFR plot visualizing the clusters:  
+## Here’s a BFR plot visualizing the clusters:  
 
 ![BFR](images/2.png)  
