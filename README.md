@@ -15,6 +15,7 @@ Pandas
 Matplotlib/Seaborn
 Scikit-learn
 
+**Output in Markdown**:
 
 ```python
 def greet(name):
