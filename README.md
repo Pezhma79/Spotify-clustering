@@ -14,10 +14,3 @@ NumPy
 Pandas
 Matplotlib/Seaborn
 Scikit-learn
-
-**Output in Markdown**:
-
-```bash
-git clone https://github.com/username/repository.git
-cd repository
-pip install -r requirements.txt
