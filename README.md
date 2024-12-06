@@ -17,7 +17,7 @@ Scikit-learn
 
 **Output in Markdown**:
 
-```python
-def greet(name):
-    print(f"Hello, {name}!")
-greet("World")
+```bash
+git clone https://github.com/username/repository.git
+cd repository
+pip install -r requirements.txt
